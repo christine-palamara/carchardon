@@ -1,17 +1,17 @@
 # Clarksburg Premium Outlets
 ## Store Locations
-### ==Upper Level==
-#### 	==Upper Left==
+### Upper Level
+&nbsp; 	Upper Left
 - [ ] Polo Ralph Lauren
-#### 	==Upper Middle==
+&nbsp; 	Upper Middle
 - [ ] Coach Outlet
-### ==Lower Level==
-#### 	==Lower - Left==
+### Lower Level
+&nbsp; 	Lower - Left
 - [ ] Nike Factory Store
-#### 	==Lower - Middle==
+&nbsp; 	Lower - Middle
 - [ ] Gap Factory
 - [ ] Auntie Anne's
-  #### ==Lower - Right==
+&nbsp; Lower - Right
 - [ ] Old Navy
 ## Store List
 * Polo Ralph Lauren
